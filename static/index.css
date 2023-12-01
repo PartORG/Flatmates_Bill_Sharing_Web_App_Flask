@@ -1,0 +1,21 @@
+h1 {
+    color: darkgrey;
+    text-align: center;
+    font-size: 50px;
+}
+
+p {
+    text-align: center;
+    font-size: 50px;
+    padding: 8px 8px;
+    margin: 10px 0px;
+}
+
+a {
+    display: block;
+    text-align: center;
+    color: Green;
+    font-size: 30px;
+    padding: 8px 8px;
+    margin: 10px 0px;
+}
